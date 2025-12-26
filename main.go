@@ -1,4 +1,5 @@
 // main.go
+// main entry
 package main
 
 import (
